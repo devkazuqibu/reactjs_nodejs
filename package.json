@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkazuqibu/reactjs_nodejs.git"
+  },
+  "keywords": [
+    "doan",
+    "nodejs.reactjs"
+  ],
+  "author": "kazu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkazuqibu/reactjs_nodejs/issues"
+  },
+  "homepage": "https://github.com/devkazuqibu/reactjs_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
